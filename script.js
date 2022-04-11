@@ -95,7 +95,7 @@ text.addEventListener('input', e => {
             time += 5;
         }
 
-        timeEl.innerText = time;
+         timeEl.innerText = time;
         //  Clear the input
         e.target.value = '';
     }
